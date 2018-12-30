@@ -2,13 +2,26 @@ body{
 	background-color: lightgray;
 	font-size: 15px;
 	color: black;
-}
-h2{
-	font-size: 10px;
-	font-family: Verdana;
+	font-family: Montserrat;
+	text-align:center;
 }
 
-container{
+h1{
+	font-size: 50px;
+	color: #2c3035;
+}
+h2{
+	font-size: 15px;
+}
+
+h3{
+	font-size: 3px;
+	color: #2c3035;
+}
+
+
+
+#container{
 	widht: 1000px;
 	marigin-left: auto;
 	marigin-right: auto;
@@ -16,6 +29,35 @@ container{
 }
 
 #logo{
+	margin-top: 20px;
 	font-size: 20px;
+	letter-spacing: 2px;
+
 }
+
+#content{
+	min-height:300px;
+	background-color: lightgray;
+}
+
+#contactInfo{
+	position: relative;
+	text-align: center;
+}
+
+#footer{
+	
+	color: grey;
+	font-size: 10px;
+}
+
+.social{
+	display: inline-block;
+	text-align: center;
+}
+
+.social:hover{
+	cursor: pointer;
+}
+
 
