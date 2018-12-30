@@ -1,0 +1,21 @@
+body{
+	background-color: lightgray;
+	font-size: 15px;
+	color: black;
+}
+h2{
+	font-size: 10px;
+	font-family: Verdana;
+}
+
+container{
+	widht: 1000px;
+	marigin-left: auto;
+	marigin-right: auto;
+	
+}
+
+#logo{
+	font-size: 20px;
+}
+
